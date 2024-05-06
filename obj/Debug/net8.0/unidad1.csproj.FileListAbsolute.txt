@@ -1,0 +1,14 @@
+C:\Users\edu\OneDrive - MSFT\CODE\C#\unidad1\bin\Debug\net8.0\unidad1.exe
+C:\Users\edu\OneDrive - MSFT\CODE\C#\unidad1\bin\Debug\net8.0\unidad1.deps.json
+C:\Users\edu\OneDrive - MSFT\CODE\C#\unidad1\bin\Debug\net8.0\unidad1.runtimeconfig.json
+C:\Users\edu\OneDrive - MSFT\CODE\C#\unidad1\bin\Debug\net8.0\unidad1.dll
+C:\Users\edu\OneDrive - MSFT\CODE\C#\unidad1\bin\Debug\net8.0\unidad1.pdb
+C:\Users\edu\OneDrive - MSFT\CODE\C#\unidad1\obj\Debug\net8.0\unidad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edu\OneDrive - MSFT\CODE\C#\unidad1\obj\Debug\net8.0\unidad1.AssemblyInfoInputs.cache
+C:\Users\edu\OneDrive - MSFT\CODE\C#\unidad1\obj\Debug\net8.0\unidad1.AssemblyInfo.cs
+C:\Users\edu\OneDrive - MSFT\CODE\C#\unidad1\obj\Debug\net8.0\unidad1.csproj.CoreCompileInputs.cache
+C:\Users\edu\OneDrive - MSFT\CODE\C#\unidad1\obj\Debug\net8.0\unidad1.dll
+C:\Users\edu\OneDrive - MSFT\CODE\C#\unidad1\obj\Debug\net8.0\refint\unidad1.dll
+C:\Users\edu\OneDrive - MSFT\CODE\C#\unidad1\obj\Debug\net8.0\unidad1.pdb
+C:\Users\edu\OneDrive - MSFT\CODE\C#\unidad1\obj\Debug\net8.0\unidad1.genruntimeconfig.cache
+C:\Users\edu\OneDrive - MSFT\CODE\C#\unidad1\obj\Debug\net8.0\ref\unidad1.dll
